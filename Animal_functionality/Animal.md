@@ -6,7 +6,7 @@
 ## Dog information
 
 Isn't this dog the cutest!?! Its name is Fido!
-# Aniaml Information
+# Animal Information
 ## A dog
 Isn't this the cutest dog!
 ![A cartoon of a dog](../dog.png)
