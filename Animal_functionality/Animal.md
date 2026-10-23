@@ -11,7 +11,9 @@ Isn't this dog the cutest!?! Its name is Fido!
 Isn't this the cutest dog!
 ![A cartoon of a dog](../dog.png)
 Its name is Rover
+
 ![A cartoon of a cute dog](/images/dog.png)
+
 # Animal Information
 ## A cat
 This is the cat that rules the house!
